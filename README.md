@@ -1,6 +1,6 @@
-# 👩🏻‍💻 brenooliveira
+# 👩🏻‍💻 Breno Cavalcante de Oliveira
 
-**``Desenvolvedor FullStack``**
+**``Desenvolvedor backend``**
 
 Olá! Meu nome é Breno, nascido em Brasília. Atualmente curso Engenharia de Software e sou apaixonado por tecnologia e jogos. Tenho como objetivo compartilhar meu conhecimento por meio do meu canal no YouTube, ajudando outras pessoas a aprender e evoluir nesse universo.
 
